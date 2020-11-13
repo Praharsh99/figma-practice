@@ -15,7 +15,7 @@ body {
 }
 
 svg {
-  transform: translateX(30%) scale(0.7);
+  transform: translate(30%, 5%) scale(0.7);
 }
 
 #right-wheel,
